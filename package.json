@@ -1,0 +1,29 @@
+{
+  "name": "CIC_Discourse",
+  "version": "0.0.1",
+  "description": "This repository is contains software that support CIC 3.0 Chinese version.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chaconnewu/CIC_Discourse.git"
+  },
+  "author": "Yu Wu <chaconnewu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaconnewu/CIC_Discourse/issues"
+  },
+  "homepage": "https://github.com/chaconnewu/CIC_Discourse",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "ejs": "^2.3.1",
+    "express": "^4.12.4",
+    "jsx-loader": "^0.13.2",
+    "mongoose": "^4.0.3",
+    "passport": "^0.2.2",
+    "passport-local": "^1.0.0",
+    "react": "^0.13.3"
+  }
+}
